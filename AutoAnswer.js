@@ -5,10 +5,12 @@
  *@desc Auto Answers membean.com questions!
  *Copy everything from "if" down and paste it in the console per the instructions on the website
  */
-if($("#wordform") == null){
+
+if($("#full-answer").html() == null){
 $("li.answer").click();
 console.log("MultiChoice");
-}else{
+}
+if($("#full-answer").html() != null){
 $("#choice").val($("#full-answer").html().substring(1));$("#pass__pass").parent().submit();
 	console.log("Fill in");
 }
