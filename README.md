@@ -11,4 +11,4 @@
 	<br>
 	If you encounter any issues open a pull request on this site
 	<br>
-	<strong>This is actually 100% legal and not a "hack", membean loads the answer in the page and simply keeps it hidden until you get the answer right, this program justs reads the answer (THEY PRACTACLY GIVE THE ANSWER AWAY, THE WEBSITE REFERS TO IT AS "full-answer", A QUIZ SITE SHOULD REALLY TRY TO HIDE THE ANSWERS BETTER</strong>
+	<strong>This is actually 100% legal and not a "hack", membean loads the answer in the page and simply keeps it hidden until you get the answer right, this program justs reads the answer (THEY PRACTICALLY GIVE THE ANSWER AWAY, THE WEBSITE REFERS TO IT AS "full-answer", A QUIZ SITE SHOULD REALLY TRY TO HIDE THE ANSWERS BETTER</strong>
