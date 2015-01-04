@@ -1,11 +1,4 @@
-/**DONT COPY LINES 1-6
- *@author <h1 style="background-color:#000">Ben Tyszka<h1>
- *@version 1.1.1
- *@file AutoAnswer.js
- *@desc Auto Answers membean.com questions!
- *Copy everything from "if" down and paste it in the console per the instructions on the website
- */
-
+//DONT COPY THIS LINE, COPY EVERYTHING ELSE 
 if($("#full-answer").html() == null){
 $("li.answer").click();
 console.log("MultiChoice");
