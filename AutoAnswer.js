@@ -8,4 +8,4 @@ if($("#full-answer").html() != null){
 $("#choice").val($("#full-answer").html().substring(1));$("#pass__pass").parent().submit();
 	console.log("Fill in");
 }
-}, 3000);
+}, Math.floor((Math.random() * 6000) + 2000));
