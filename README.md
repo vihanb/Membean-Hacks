@@ -2,7 +2,8 @@
 
 =============
 <h4>INSTRUCTIONS</h4>
-<p><ol><li>Copy the contents of AutoAnswer.js</li><li>Start a new membean session (so a question appears on screen)</li><li>Open the console (click F12 and select the tab farthest to the right (named console))</li><li>Paste the code in and click enter, sit back and watch our code do the work (You can close the console by clicking F12 again if you so choose)</li><ol></p>
+<p><ol><li>Copy the contents of AutoAnswer.js</li><li>Start a new membean session (so a question appears on screen)</li><li>Open the console (click F12 and select the tab farthest to the right (named console))</li><li>Paste the code in and click enter, sit back and watch our code do the work (You can close the console by clicking F12 again if you so choose)</li></ol></p>
+<strong>ONLY PASTE IN THE CODE ONCE A QUESTION HAS APPEARED AND NEVER PASTE THE CODE IN MORE THAN ONCE</strong>
 <br>
 <p>This code is simply intended to illustrate the critical vulnerabilities that are present in large scale web applications...</p>
 
