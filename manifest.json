@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "The Anti-Membean Weapon",
+    "description": "Whirling your problems away...",
+    "version": "1.0",
+    "browser_action": {
+    	"icons": ["anti-membean.png"],
+        "default_icon": "anti-membean.png"
+    },
+    "content_scripts": [
+        {
+            "js": [
+                "jquery.min.js",
+                "app.js"
+            ],
+            "matches": [
+                "http://membean.com/*"
+            ]
+        }
+    ]
+}

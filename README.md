@@ -1,27 +1,78 @@
 <h2>Membean-Hacks</h2>
 
+
+
 =============
+
 <h4>INSTRUCTIONS: READ EVERYTHING</h4>
-<p><ol><li>Copy the contents of AutoAnswer.js</li><li>Start a new membean session (so a question appears on screen)</li><li>Open the console (click F12 and select the tab farthest to the right (named console))</li><li>Paste the code in and click enter, sit back and watch our code do the work (You can close the console by clicking F12 again if you so choose)</li></ol></p>
-<strong>ONLY PASTE IN THE CODE ONCE A QUESTION HAS APPEARED</strong>
-<p>The code must be re-pasted in the console after it answers a fill in question...<small>We are trying to work out a fix for this, Sorry(It still auto-answers the question, you just have to type more!)</p>
-<br>
-<p>The code purposely doesn't do anything on the new word pages<p>
-<br>
-<p>This code is simply intended to illustrate the critical vulnerabilities that are present in large scale web applications...</p>
+
+<p>The Anti-Membean Weapon has now been put into a Google Chrome extension(this allows for 100% full awesome automation and no bugs)</p>
 
 <br>
+
+
+
+<ol>
+
+<li>Click the "Download Zip" button (should be to the right of this button)</li>
+
+<li>Right click and click the unzip file button (choose a destination and remember it!)<li>
+
+<li>Open Google Chrome (It would help to have the latest version)</li>
+
+<li>Into the top website bar thing type "chrome://extensions"</li>
+
+<li>Click the checkbox that says "Developer Mode" (should be at the top and slightly to the right)</li>
+
+<li>Click the button that says "Load unpacked extension"</li>
+
+<li>Find the directory that you placed the unziped file in and select it</li>
+
+<li>Make sure that the "Enabled" check box is checked</li>
+
+<li>Log onto membean</li>
+
+<li>Start a session, kick back & relax!</li>
+
+</ol>
+
+</p>
+
+<br>
+
+<p>The code purposely doesn't do anything on the new word pages<p>
+
+<br>
+
+<p>This code is simply intended to illustrate the critical vulnerabilities that are present in large scale web applications... By using this code you agree to the following terms: <ol><li>We are not responsible for any negative repercussions from your using of this code</li><li>You inherent all risks associated with the using of this code and understand all consequences</li></ol></p>
+
+
+
+<br>
+
+
 
 <p>This "hack" is not illegal, it simply reads the client side markup of membean and clicks a few buttons and inserts some stuff into text boxes</p>
 
+
+
 <br>
+
+
 
 <p>This is not intended to insult or embarrass any school and/or education officials</p>
 
+
+
 <br>
+
+
 
 <h3>A product of Typhoon Technologies.... <small>Whirling your problems away</small></h3>
 
+
+
 <br>
+
 
 
