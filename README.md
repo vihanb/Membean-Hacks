@@ -14,9 +14,9 @@
 
 <ol>
 
-<li>Click the "Download Zip" button (should be to the right of this button)</li>
+<li>Click the "Download Zip" button (should be to the right of this screen and under the "Clone in desktop" button)</li>
 
-<li>Right click and click the unzip file button (It's under "Compressed Folder Tools", also choose a destination and remember it!)</li>
+<li>Right click the newly downloaded file and click the "Extract All" button and accept/continue any windows that come up (It's may be under "Compressed Folder Tools", also choose a destination and remember it!)</li>
 
 <li>Open Google Chrome (It would help to have the latest version)</li>
 
@@ -26,9 +26,9 @@
 
 <li>Click the button that says "Load unpacked extension"</li>
 
-<li>Find the directory that you placed the unziped file in (Their will be two folders, keep clicking on the folder until it wont let you go farther, if not you'll get an error)</li>
+<li>Find the directory that you placed the unziped file in (When you first open the directory there will be a folder, it is that folder that you must select/use)</li>
 
-<li>Make sure that the "Enabled" check box is checked</li>
+<li>Make sure that the "Enabled" check box is checked and it wouldn't be a bad idea to close and re-open chrome</li>
 
 <li>Log onto membean</li>
 
