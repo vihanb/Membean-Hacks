@@ -26,7 +26,7 @@
 
 <li>Click the button that says "Load unpacked extension"</li>
 
-<li>Find the directory that you placed the unziped file in and select it</li>
+<li>Find the directory that you placed the unziped file in (Their will be two folders, keep clicking on the folder until it wont let you go farther, if not you'll get an error)</li>
 
 <li>Make sure that the "Enabled" check box is checked</li>
 
