@@ -16,7 +16,7 @@
 
 <li>Click the "Download Zip" button (should be to the right of this button)</li>
 
-<li>Right click and click the unzip file button (choose a destination and remember it!)<li>
+<li>Right click and click the unzip file button (It's under "Compressed Folder Tools", also choose a destination and remember it!)</li>
 
 <li>Open Google Chrome (It would help to have the latest version)</li>
 
