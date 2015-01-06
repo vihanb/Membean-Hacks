@@ -14,6 +14,6 @@ $("#choice").val($("#full-answer").html().substring(1));$("#pass__pass").parent(
 	console.log("Fill in");
 	}
 }
-setInterval(antiMembeanWeapon, Math.floor((Math.random() * 6000) + 2500));
+setInterval(antiMembeanWeapon, Math.floor((Math.random() * 10000) + 4250));
 
 }
