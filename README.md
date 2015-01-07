@@ -4,7 +4,7 @@
 
 =============
 
-<h4>INSTRUCTIONS: READ EVERYTHING</h4>
+<h4>INSTRUCTIONS: READ EVERYTHING!</h4>
 
 <p>The Anti-Membean Weapon has now been put into a Google Chrome extension(this allows for 100% full awesome automation and no bugs)</p>
 
