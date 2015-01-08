@@ -5,9 +5,9 @@
 =============
 <p>This code is simply intended to illustrate the critical vulnerabilities that are present in large scale web applications... By using this code you agree to the following terms: <ol><li>We are not responsible for any negative repercussions from your using of this code</li><li>You inherent all risks associated with the using of this code and understand all consequences</li></ol></p>
 <br>
-<p>Do not use this to cheat, you can get in trouble</p>
+<p><strong>Do not</strong> use this to cheat, you can get in trouble</p>
 <br>
-<p>We made this code for demonstration purposes only, it works, but you shouldn't use it</p>
+<p>We made this code for <strong>demonstration purposes only</strong>, it works, but you shouldn't use it</p>
 <h4>INSTRUCTIONS: READ EVERYTHING!</h4>
 
 <p>The Anti-Membean Weapon has now been put into a Google Chrome extension(this allows for 100% full awesome automation and no bugs)</p>
