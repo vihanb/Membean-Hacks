@@ -72,7 +72,7 @@
 AS LONG AS YOU DON'T LOAD THE ANSWERS INTO THE FREAKING PAGE AND CALL THE ANSWER #full-answer YOU SHOULD BE FINE!!!! I am just thinking off the top of my head here but you should have like a json of the question, perhaps its UUID, the possible choices and the answer. Send the question, UUID and choices to the client, when the user responds, find the answer by the UUID and see if they match! Then just send back something saying that the answer was correct/wrong! The bug is harmless, but this is an example as to how NOT to build a site. This is just sad, you are building a site meant for kids, kids who hate homework and will do anything to get around it. It was a matter of time until someone found this out.... You are lucky that this bug wasn't more serious. I thought about telling you, Membean, but then I googled "Membean Hack" and I saw tons of little exploits and things that have existed for YEARS. I fear that the only way to get your attention is to publicly release this repo.
 </p>
 <h4>Closing thoughts</h4>
-<p>Always expect your client to be of a malicious intent! The fact that a 16 year old can make this in under 10 minutes is pathetic. I can't believe how badly designed this site is.</p>
+<p>Always expect your client to be of a malicious intent! The fact that a 11 year old can make this in under 10 minutes is pathetic. I can't believe how badly designed this site is.</p>
 
 
 
